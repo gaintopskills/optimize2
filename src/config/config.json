@@ -1,0 +1,47 @@
+{
+  "site": {
+    "title": "Optimize",
+    "base_url": "https://optimize-astro.vercel.app",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.svg",
+    "logo_width": "160",
+    "logo_height": "35",
+    "logo_text": "Optimize"
+  },
+
+  "settings": {
+    "search": true,
+    "pagination": 9,
+    "summary_length": 140
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "footer_description": "Start building your insights hub with <br> lightweight analysis.",
+    "copyright": "Copyright © {year} Optimize. All Rights Reserved"
+  },
+
+  "newsletter": {
+    "form_action": "#"
+  },
+
+  "navigation_button": {
+    "enable": true,
+    "label": "Get This Template",
+    "link": "https://themefisher.com/products/optimize-astro"
+  },
+
+  "disqus": {
+    "enable": true,
+    "shortname": "themefisher-template",
+    "settings": {}
+  },
+
+  "metadata": {
+    "meta_author": "Themefisher",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Management Saas & Startup Template"
+  }
+}
